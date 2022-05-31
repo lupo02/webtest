@@ -1,0 +1,1 @@
+var json_El_Collao_4 = {"type":"FeatureCollection","name":"El_Collao_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-0.490325222179183,38.690827436370441]}}]}

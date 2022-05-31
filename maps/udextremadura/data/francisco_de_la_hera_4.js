@@ -1,0 +1,1 @@
+var json_francisco_de_la_hera_4 = {"type":"FeatureCollection","name":"francisco_de_la_hera_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"4"},"geometry":{"type":"Point","coordinates":[-6.414600742271372,38.684389583465332]}}]}

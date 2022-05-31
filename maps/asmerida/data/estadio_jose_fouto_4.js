@@ -1,0 +1,1 @@
+var json_estadio_jose_fouto_4 = {"type":"FeatureCollection","name":"estadio_jose_fouto_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"6"},"geometry":{"type":"Point","coordinates":[-6.336557679374783,38.914010806824848]}}]}

@@ -1,0 +1,1 @@
+var json_la_ceramica_3 = {"type":"FeatureCollection","name":"la_ceramica_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"3"},"geometry":{"type":"Point","coordinates":[-0.103455380151048,39.944123726381733]}}]}
